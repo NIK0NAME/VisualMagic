@@ -1,0 +1,13 @@
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\bin\Debug\ComprasConDataSet.exe.config
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\bin\Debug\ComprasConDataSet.exe
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\bin\Debug\ComprasConDataSet.pdb
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\bin\Debug\ComprasConDataSet.xml
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.vbprojAssemblyReference.cache
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.Form1.resources
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.Resources.resources
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.vbproj.GenerateResource.cache
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.vbproj.CoreCompileInputs.cache
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.exe
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.xml
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.pdb
+D:\Nikolay_Zabaleta\2.DESARROLLO_INTERFACES\actividades\AppsConDB\ComprasConDataSet\obj\Debug\ComprasConDataSet.Pedido.resources
